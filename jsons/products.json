@@ -1,0 +1,147 @@
+{
+  "products": [{
+    "fairy_sparklers": {
+      "id": 0,
+      "type": 0,
+      "name": "Fairy Sparklers",
+      "description": "Multi-colored sparklers."
+    }
+  },
+  {
+    "fire_crackers": {
+      "id": 1,
+      "type": 0,
+      "name": "Fire Crackers",
+      "description": "Loud AF."
+    }
+  },
+  {
+    "ground_spinners": {
+      "id": 2,
+      "type": 0,
+      "name": "Ground Spinners",
+      "description": "Spin fast. Make noise. Woo"
+    }
+  },
+  {
+    "smoke_bombs": {
+      "id": 3,
+      "type": 1,
+      "name": "Smoke Bombs",
+      "description": "I can't breathe!"
+    }
+  },
+  {
+    "black_powder": {
+      "id": 4,
+      "type": 1,
+      "name": "Black Powder",
+      "description": "Boom boom bang bang."
+    }
+  },
+  {
+    "confetti": {
+      "id": 5,
+      "type": 1,
+      "name": "Confetti",
+      "description": "Great for clean up!"
+    }
+  },
+  {
+    "commet": {
+      "id": 6,
+      "type": 2,
+      "name": "Commet",
+      "description": "A shooting star."
+    }
+  },
+  {
+    "mortar": {
+      "id": 7,
+      "type": 2,
+      "name": "Mortar",
+      "description": "Used in war for distance."
+    }
+  },
+  {
+    "palm_tree": {
+      "id": 8,
+      "type": 2,
+      "name": "Palm Tree",
+      "description": "Found in florida."
+    }
+  },
+  {
+    "hiroshima": {
+      "id": 9,
+      "type": 3,
+      "name": "Hiroshima",
+      "description": "Scary ass bomb."
+    }
+  },
+  {
+    "nagasaki": {
+      "id": 10,
+      "type": 3,
+      "name": "Nagasaki",
+      "description": "Just as scary ass bomb."
+    }
+  },
+  {
+    "fat_man": {
+      "id": 11,
+      "type": 3,
+      "name": "Fat Man",
+      "description": "Yet still, a scary ass bomb."
+    }
+  },
+  {
+    "tnt": {
+      "id": 12,
+      "type": 4,
+      "name": "TNT",
+      "description": "Looney Tunes use this."
+    }
+  },
+  {
+    "dynamite": {
+      "id": 13,
+      "type": 4,
+      "name": "Dynamite",
+      "description": "Used to blow up mountains."
+    }
+  },
+  {
+    "ied": {
+      "id": 14,
+      "type": 4,
+      "name": "IED",
+      "description": "Terrorists love these."
+    }
+  },
+  {
+    "diamond_cutter": {
+      "id": 15,
+      "type": 5,
+      "name": "Diamond Cutter",
+      "description": "Used in demolition. Speciality uses."
+    }
+  },
+  {
+    "magic": {
+      "id": 16,
+      "type": 5,
+      "name": "Magic",
+      "description": "Call Harry. He's my boy. He will help you out."
+    }
+  },
+  {
+    "hulk": {
+      "id": 17,
+      "type": 5,
+      "name": "Hulk",
+      "description": "Call the big green man. He will get that building down. "
+    }
+  }
+]
+}

@@ -1,0 +1,40 @@
+{
+  "types": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "Personal",
+      "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "Magician",
+      "description": "Fireworks used by magicians."
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "Commercial",
+      "description": "Fireworks used in a commercial setting."
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "Implosion",
+      "description": "Big ass boom."
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "Explosion",
+      "description": "Varying degrees of boom"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "Non-Explosive",
+      "description": "Special Demolition"
+    }
+  ]
+}

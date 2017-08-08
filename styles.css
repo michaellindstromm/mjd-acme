@@ -1,0 +1,28 @@
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
+.border {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.row {
+  text-align: center;
+  line-height: 50px;
+  height: 50px;
+  overflow-y: auto;
+}
+
+.header {
+  background: rgb(255, 186, 186);
+}
+
+#outPut {
+  margin: 1em auto;
+}
